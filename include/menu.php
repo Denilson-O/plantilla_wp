@@ -1,32 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-    <head>
-        <meta charset="utf-8" />
-        <title> Tiendas  - Admin & Dashboard Template</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta content="Premium Multipurpose Admin & Dashboard Template" name="description" />
-        <meta content="MyraStudio" name="author" />
-        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-
-        <!-- App favicon -->
-        <link rel="shortcut icon" href="plantilla/Admin/vertical/assets/images/favicon.ico">
-
-        <!-- App css -->
-        <link href="plantilla/Admin/vertical/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-        <link href="plantilla/Admin/vertical/assets/css/icons.min.css" rel="stylesheet" type="text/css" />
-        <link href="plantilla/Admin/vertical/assets/css/theme.min.css" rel="stylesheet" type="text/css" />
-        <link rel="stylesheet" href="nosotros.html">
-        <link rel="stylesheet" href="nuestrosautos.html">
-
-    </head>
-
-    <body>
-
-        <!-- Begin page -->
-        <div id="layout-wrapper">
-            <div class="header-border"></div>
-            <header id="page-topbar">
+<header id="page-topbar">
                 <div class="navbar-header">
 
                     <div class="d-flex align-items-left">
@@ -205,7 +177,6 @@
                 </div>
             </header>
 
-            <!-- ========== Left Sidebar Start ========== -->
             <div class="vertical-menu">
 
                 <div data-simplebar class="h-100">
@@ -231,14 +202,14 @@
                             </li>
 
                             <li>
-                                <a href="nosotros.html" class="has-arrow waves-effect"><i
+                                <a href="nosotros.php" class="has-arrow waves-effect"><i
                                         class="mdi mdi-diamond-stone"></i><span> Nosotros</span></a>
                                 <ul class="sub-menu" aria-expanded="false">
                                     
                                 </ul>
                             </li>
                             <li>
-                                <a href="nuestrosautos.html" class="has-arrow waves-effect"><i
+                                <a href="nuestrosautos.php" class="has-arrow waves-effect"><i
                                         class="mdi mdi-diamond-stone"></i><span> Nuestros Autos</span></a>
                                 <ul class="sub-menu" aria-expanded="false">
                                     
@@ -255,7 +226,7 @@
                             </li>
 
                             <li>
-                                <a href="javascript: void(0);" class="has-arrow waves-effect"><i
+                                <a href="contactanos.php" class="has-arrow waves-effect"><i
                                         class="mdi mdi-poll"></i><span>Contactanos</span></a>
                                 <ul class="sub-menu" aria-expanded="false">
                                     
@@ -276,7 +247,8 @@
                                 
                             
 
-                            
+                            <li><a href="preguntas_frecuentes.php" class=" waves-effect"><i
+                                class="mdi mdi-text-range-outline"></i><span>Preguntas Frecuentes?</span></a></li>
 
                             <li>
                                 <a href="javascript: void(0);" class="has-arrow waves-effect"><i
@@ -309,110 +281,3 @@
                     <!-- Sidebar -->
                 </div>
             </div>
-            <!-- Left Sidebar End -->
-
-            <!-- ============================================================== -->
-            <!-- Start right Content here -->
-            <!-- ============================================================== -->
-            <div class="main-content">
-
-                <div class="page-content">
-                    <div class="container-fluid">
-
-                        <!-- start page title -->
-                        <div class="row">
-                            <div class="col-12">
-                                <div class="page-title-box d-flex align-items-center justify-content-between">
-                                    <h4 class="mb-0 font-size-18">Nuestra misión</h4>
-
-                                    <div class="page-title-right">
-                                        <ol class="breadcrumb m-0">
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Pages</a></li>
-                                            <li class="breadcrumb-item active">Nuestra misión</li>
-                                        </ol>
-                                    </div>
-                                    
-
-                                </div>
-                            </div>
-                        </div>
-                        <p>Queremos revolucionar el concepto de compra y venta de autos de lujo seminuevos y autos deportivos en el Perú bajo un esquema innovador y personalizado desde la comodidad de tu hogar.
-
-                            Nuestro pilar más importante se basa en la confianza y transparencia de nuestros servicios. Buscamos formar relaciones a largo plazo con nuestros clientes brindándoles una atención integral y de calidad que va más allá de ser solo un intermediario.</p>
-                        <!-- end page title -->
-                        <!-- Start categorías section -->
-                <div class="row">
-                    <div class="col-12">
-                        <div class="card">
-                            <div class="card-body">
-                                <!-- Aquí puedes agregar tu propio HTML para representar las categorías -->
-                                <div class="col-md-3">
-                                    <div class="card">
-                                        <img class="card-img-top img-fluid" src="img/nos.jpeg" alt="" >
-                                        <div class="card-body"></div>
-                                        <h5 class="card-title">Mercedes-Benz C-Class C63s AMG</h5>
-                                        <p class="card-text">descripcion</p>
-                                        
-                                    </div>
-                                </div>
-                                <div class="row">
-                                    <div class="col-md-4">
-                                        <div class="category">
-                                            <img src="img/video-2b.mp4" alt="video">
-                                            <h5>Ropa</h5>
-                                            <p>Encuentra la mejor moda para ti.</p>
-                                            <a href="#">Ver más</a>
-                                        </div>
-                                    </div>
-                                    
-                                    <!-- Puedes agregar más categorías según sea necesario -->
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- End categorías section -->
-
-                    </div> <!-- container-fluid -->
-                </div>
-                <!-- End Page-content -->
-
-                <footer class="footer">
-                    <div class="container-fluid">
-                        <div class="row">
-                            <div class="col-sm-6">
-                                2020 © Xeloro.
-                            </div>
-                            <div class="col-sm-6">
-                                <div class="text-sm-right d-none d-sm-block">
-                                    Diseño y desarollo por Myra
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </footer>
-
-            </div>
-            <!-- end main content-->
-
-        </div>
-        <!-- END layout-wrapper -->
-
-        <!-- Overlay-->
-        <div class="menu-overlay"></div>
-
-
-        <!-- jQuery  -->
-        <script src="plantilla/Admin/vertical/assets/js/jquery.min.js"></script>
-        <script src="plantilla/Admin/vertical/assets/js/bootstrap.bundle.min.js"></script>
-        <script src="plantilla/Admin/vertical/assets/js/metismenu.min.js"></script>
-        <script src="plantilla/Admin/vertical/assets/js/waves.js"></script>
-        <script src="plantilla/Admin/vertical/assets/js/simplebar.min.js"></script>
-
-        <!-- App js -->
-        <script src="plantilla/Admin/vertical/assets/js/theme.js"></script>
-
-    </body>
-
-
-</html>
