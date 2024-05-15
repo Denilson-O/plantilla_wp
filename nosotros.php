@@ -34,7 +34,7 @@
                 <h2><center>Sobre Nosotros</center></h2>
                
                 <p>
-                    Bienvenidos a nuestra página web. Somos una empresa dedicada a brindar la compra yu venta de auyos lujos y deportivos.
+                    Bienvenidos a nuestra página web. Somos una empresa dedicada a brindar la compra yu venta de autos lujos y deportivos.
                     Nuestro equipo está compuesto por profesionales altamente calificados y apasionados por lo que
                     hacen.
                     Nos enorgullece ofrecer productos y servicios de alta calidad que superan las expectativas de
