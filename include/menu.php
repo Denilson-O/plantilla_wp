@@ -197,20 +197,20 @@
                             <li class="menu-title">Menu</li>
 
                             <li>
-                                <a href="index.html" class="waves-effect"><i class="mdi mdi-home-analytics"></i><span
+                                <a href="index.html" class="has-arrow waves-effect"><i class="fas fa-home"></i><span
                                         class="badge badge-pill badge-primary float-right">7</span><span>Inicio</span></a>
                             </li>
 
                             <li>
                                 <a href="nosotros.php" class="has-arrow waves-effect"><i
-                                        class="mdi mdi-diamond-stone"></i><span> Nosotros</span></a>
+                                        class="fas fa-user"></i><span> Nosotros</span></a>
                                 <ul class="sub-menu" aria-expanded="false">
                                     
                                 </ul>
                             </li>
                             <li>
                                 <a href="nuestrosautos.php" class="has-arrow waves-effect"><i
-                                        class="mdi mdi-diamond-stone"></i><span> Nuestros Autos</span></a>
+                                        class="fas fa-car"></i><span> Nuestros Autos</span></a>
                                 <ul class="sub-menu" aria-expanded="false">
                                     
                                 </ul>
@@ -218,7 +218,7 @@
 
                             <li>
                                 <a href="javascript: void(0);" class="has-arrow waves-effect"><i
-                                        class="mdi mdi-table-merge-cells"></i><span>Servicio</span></a>
+                                        class="fas fa-tools"></i><span>Servicio</span></a>
                                 <ul class="sub-menu" aria-expanded="false">
                                   
                                    
@@ -227,7 +227,7 @@
 
                             <li>
                                 <a href="contactanos.php" class="has-arrow waves-effect"><i
-                                        class="mdi mdi-poll"></i><span>Contactanos</span></a>
+                                        class="fas fa-envelope"></i><span>Contactanos</span></a>
                                 <ul class="sub-menu" aria-expanded="false">
                                     
                                 </ul>
@@ -235,7 +235,7 @@
 
                             <li>
                                 <a href="javascript: void(0);" class="waves-effect"><i
-                                        class="mdi mdi-format-list-bulleted-type"></i><span
+                                        class="fas fa-check-square"></i><span
                                         class="badge badge-pill badge-danger float-right">6</span><span>Autos Vendidos</span></a>
                                 <ul class="sub-menu" aria-expanded="false">
                                 
@@ -248,11 +248,11 @@
                             
 
                             <li><a href="preguntas_frecuentes.php" class=" waves-effect"><i
-                                class="mdi mdi-text-range-outline"></i><span>Preguntas Frecuentes?</span></a></li>
+                                class="fas fa-question-circle"></i><span>Preguntas Frecuentes?</span></a></li>
 
                             <li>
                                 <a href="javascript: void(0);" class="has-arrow waves-effect"><i
-                                        class="mdi mdi-format-page-break"></i><span>Carrito de compra</span></a>
+                                        class="fas fa-shopping-cart"></i><span>Carrito de compra</span></a>
                                 <ul class="sub-menu" aria-expanded="false">
                                     <li><a href="pages-invoice.html">Lista de compra</a></li>
                                     <li><a href="pages-maintenance.html">Codigo de descuento</a></li>
