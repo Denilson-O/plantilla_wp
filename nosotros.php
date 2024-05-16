@@ -30,7 +30,7 @@
             <img src="img/nos.jpeg" class="img-fluid" alt="img">
 
             </div>
-            <div class="col-md-8">
+            <div class="col-md-8" style="text-align: justify;">
                 <h2><center>Sobre Nosotros</center></h2>
                
                 <p>
