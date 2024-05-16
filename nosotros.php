@@ -26,11 +26,11 @@
 <?php include('include/menu.php'); ?>
     <br><br><br><div class="container my-5">
         <div class="row">
-            <div class="col-md-8 d-flex justify-content-center align-items-center">
-            <img src="img/nos.jpeg" class="img-fluid" alt="img" style="width: 7180px; height: 720px;">
+            <div class="col-md-4 d-flex justify-content-center align-items-center">
+            <img src="img/nos.jpeg" class="img-fluid" alt="img">
 
             </div>
-            <div class="col-md-4">
+            <div class="col-md-8">
                 <h2><center>Sobre Nosotros</center></h2>
                
                 <p>
