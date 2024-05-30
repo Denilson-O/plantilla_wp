@@ -10,12 +10,12 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
         <!-- App favicon -->
-        <link rel="shortcut icon" href="plantilla/Admin/vertical/assets/images/favicon.ico">
+        <link rel="shortcut icon" href= " <?php bloginfo('template_url')?>/plantilla/Admin/vertical/assets/images/favicon.ico">
 
         <!-- App css -->
-        <link href="plantilla/Admin/vertical/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-        <link href="plantilla/Admin/vertical/assets/css/icons.min.css" rel="stylesheet" type="text/css" />
-        <link href="plantilla/Admin/vertical/assets/css/theme.min.css" rel="stylesheet" type="text/css" />
+        <link href=" <?php bloginfo('template_url')?>/plantilla/Admin/vertical/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+        <link href=" <?php bloginfo('template_url')?>/plantilla/Admin/vertical/assets/css/icons.min.css" rel="stylesheet" type="text/css" />
+        <link href=" <?php bloginfo('template_url')?>/plantilla/Admin/vertical/assets/css/theme.min.css" rel="stylesheet" type="text/css" />
         
 
     </head>
@@ -171,7 +171,7 @@
                         <div class="dropdown d-inline-block ml-2">
                             <button type="button" class="btn header-item waves-effect"
                                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                <img class="rounded-circle header-profile-user" src="plantilla/Admin/vertical/assets/images/users/avatar-2.jpg"
+                                <img class="rounded-circle header-profile-user" src="<?php bloginfo('template_url')?>/plantilla/Admin/vertical/assets/images/users/avatar-2.jpg"
                                     alt="Header Avatar">
                                 <span class="d-none d-sm-inline-block ml-1">DENIS.</span>
                                 <i class="mdi mdi-chevron-down d-none d-sm-inline-block"></i>
@@ -334,19 +334,19 @@
                 </ol>
                 <div class="carousel-inner">
                   <div class="carousel-item active">
-                    <img class="d-block w-100" src="img/4d.webp" alt="First slide">
+                    <img class="d-block w-100" src="<?php bloginfo('template_url')?>/img/4d.webp" alt="First slide">
                   </div>
                   <div class="carousel-item">
-                    <img class="d-block w-100" src="img/2d.webp" alt="Second slide">
+                    <img class="d-block w-100" src="<?php bloginfo('template_url')?>/img/2d.webp" alt="Second slide">
                   </div>
                   <div class="carousel-item">
-                    <img class="d-block w-100" src="img/5d.webp" alt="Third slide">
+                    <img class="d-block w-100" src="<?php bloginfo('template_url')?>/img/5d.webp" alt="Third slide">
                   </div>
                   <div class="carousel-item">
-                    <img class="d-block w-100" src="img/9d (1).webp" alt="Third slide">
+                    <img class="d-block w-100" src="<?php bloginfo('template_url')?>/img/9d (1).webp" alt="Third slide">
                   </div>
                   <div class="carousel-item">
-                    <img class="d-block w-100" src="img/6d.webp" alt="Third slide">
+                    <img class="d-block w-100" src="<?php bloginfo('template_url')?>/img/6d.webp" alt="Third slide">
                   </div>
                 </div>
                 <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -401,14 +401,14 @@
 
 
         <!-- jQuery  -->
-        <script src="plantilla/Admin/vertical/assets/js/jquery.min.js"></script>
-        <script src="plantilla/Admin/vertical/assets/js/bootstrap.bundle.min.js"></script>
-        <script src="plantilla/Admin/vertical/assets/js/metismenu.min.js"></script>
-        <script src="plantilla/Admin/vertical/assets/js/waves.js"></script>
-        <script src="plantilla/Admin/vertical/assets/js/simplebar.min.js"></script>
+        <script src=" <?php bloginfo('template_url')?>/plantilla/Admin/vertical/assets/js/jquery.min.js"></script>
+        <script src="<?php bloginfo('template_url')?>/plantilla/Admin/vertical/assets/js/bootstrap.bundle.min.js"></script>
+        <script src="<?php bloginfo('template_url')?>/plantilla/Admin/vertical/assets/js/metismenu.min.js"></script>
+        <script src="<?php bloginfo('template_url')?>/plantilla/Admin/vertical/assets/js/waves.js"></script>
+        <script src="<?php bloginfo('template_url')?>/plantilla/Admin/vertical/assets/js/simplebar.min.js"></script>
 
         <!-- App js -->
-        <script src="plantilla/Admin/vertical/assets/js/theme.js"></script>
+        <script src="<?php bloginfo('template_url')?>/plantilla/Admin/vertical/assets/js/theme.js"></script>
 
     </body>
 
