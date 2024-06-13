@@ -273,9 +273,7 @@
                                     <li><a href="maps-google.html">Google Maps</a></li>
                                     
                                 </ul>
-                            </li>
-
-                            
+                            </li>       
                         </ul>
                     </div>
                     <!-- Sidebar -->
