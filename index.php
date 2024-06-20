@@ -77,7 +77,7 @@
                                     <?php
                                         endwhile;
                                     else :
-                                        _e('No se encontraron productos en la categoria', 'textdomain');
+                                        _e('No se encontraron productos en la categoria de productos', 'textdomain');
                                     endif; ?>
                                 </div>
                             </div>
