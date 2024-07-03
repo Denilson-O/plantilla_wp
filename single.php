@@ -32,7 +32,7 @@ get_header();
                                 </div>
 
                                 <p style="text-align: left; color: #0000FF;">Autor: <?php the_author() ?></p>
-                                <p style="text-align: right; color: #cc0000;">Hora de Publicación: <?php the_time() ?></p>
+                                <p style="text-align: right; color: #cc0000;">Fecha de Publicación: <?php the_time('d/m/Y-H:i') ?></p>
                                 <hr style="border: none; border-top: 1px solid #ddd; margin: 20px 0;">
                                     <p style="color: #333; text-align: center; margin: 10px 0;">Gracias por leer nuestro artículo.</p>
 
